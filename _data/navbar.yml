@@ -1,4 +1,8 @@
 - name: Home
   link: /
-- name: About
-  link: /about
+- name: StreamElements
+  link: /streamelements
+- name: StreamLabs/Cloudbot
+  link: /streamlabs
+- name: NightBot
+  link: /nightbot
