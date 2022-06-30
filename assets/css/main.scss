@@ -4,3 +4,33 @@
 ---
 
 @import 'bootstrap/bootstrap';
+
+body {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px;
+  color: #afafaf;
+  background: rgba(0, 0, 0, 0.5) url('{{ 'assets/images/background.png' | relative_url }}') no-repeat fixed;
+  background-blend-mode: darken;
+  background-size: cover;
+  background-position: center;
+}
+
+.card {
+  margin-top: 5em;
+  background-color: #333;
+  border-color: #888;
+}
+
+.card > .card-header {
+  color: #333;
+  background-color: #aaa;
+  border-color: #888;
+}
+
+div.content-table > table {
+  @extend .table;
+  @extend .table-dark;
+  @extend .table-striped;
+  @extend .table-bordered;
+  @extend .table-hover;
+}

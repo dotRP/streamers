@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-bundle exec jekyll serve --no-watch --livereload --incremental
+bundle exec jekyll serve --livereload --incremental --force-polling
