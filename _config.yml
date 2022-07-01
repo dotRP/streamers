@@ -22,8 +22,8 @@ title: dotRP Streamer Package
 email: streamers@dotroleplay.com
 description: >- # this means to ignore newlines until "baseurl:"
   Streamer packages and information for dotRP
-baseurl: "/streamers" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://streamers.dotroleplay.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dotRPofficial
 github_username:  dotRP
 markdown: kramdown
