@@ -1,15 +1,24 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
+<<<<<<< HEAD
+  <a class="navbar-brand" href="/"><img src="assets/images/logo-text.png" height="48" /></a>
+=======
   <a class="navbar-brand" href="{{ "/" | relative_url }}"><img src="assets/images/logo-text.png" height="48" /></a>
+>>>>>>> jekyll
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
     aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
+<<<<<<< HEAD
+      {% for item in site.data.navbar %}
+      <a class="nav-item nav-link" href="{{item.link | relative_url}}">{{ item.name }}</a>
+=======
       {% assign pagelink = page.url | remove: '.html' %}
       {% for item in site.data.navbar %}
       <a class="nav-item nav-link{% if pagelink == item.link %} active{% endif %}" href="{{item.link | relative_url}}">{{
         item.name }}</a>
+>>>>>>> jekyll
       {% endfor %}
     </div>
   </div>

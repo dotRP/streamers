@@ -6,9 +6,14 @@
 @import 'bootstrap/bootstrap';
 
 body {
+<<<<<<< HEAD
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px;
+=======
   font-family: 'Rajdhani', sans-serif;
   font-size: 14px;
   font-weight: 600;;
+>>>>>>> jekyll
   color: #afafaf;
   background: rgba(0, 0, 0, 0.5) url('{{ 'assets/images/background.png' | relative_url }}') no-repeat fixed;
   background-blend-mode: darken;
@@ -16,10 +21,13 @@ body {
   background-position: center;
 }
 
+<<<<<<< HEAD
+=======
 code {
   color: #BD10E0;
 }
 
+>>>>>>> jekyll
 .card {
   margin-top: 5em;
   background-color: #333;
