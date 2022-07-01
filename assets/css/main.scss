@@ -6,13 +6,18 @@
 @import 'bootstrap/bootstrap';
 
 body {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 13px;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 14px;
+  font-weight: 600;;
   color: #afafaf;
   background: rgba(0, 0, 0, 0.5) url('{{ 'assets/images/background.png' | relative_url }}') no-repeat fixed;
   background-blend-mode: darken;
   background-size: cover;
   background-position: center;
+}
+
+code {
+  color: #BD10E0;
 }
 
 .card {
