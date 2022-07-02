@@ -8,9 +8,9 @@ title: StreamLabs/Cloudbot
 
 #### Commands
 
-1. TODO CloudBot Custom Commands
-2. Click to copy
-3. Replace `[Streamer]`, `[pronouns]` (todo: variable configurator?)
+1. Add the following commands to your [Streamlabs Cloudbot custom commands](https://streamlabs.com/dashboard#/cloudbot/commands/custom)
+2. Click to copy each line
+3. Replace `[pronouns]` with your appropriate usage!
 
 <div markdown="1" class="content-table">
 
@@ -31,8 +31,8 @@ title: StreamLabs/Cloudbot
 <h2>Commands need more testing</h2>
 #### Timers
 
-1. TODO CloudBot Bot Timers
-2. Click to copy
+1. Add the following to your Streamlabs Cloudbot [timers](https://streamlabs.com/dashboard#/cloudbot/timers)
+2. Click to copy each line
 
 <div markdown="1" class="content-table">
 
