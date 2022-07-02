@@ -16,10 +16,10 @@ title: StreamLabs/Cloudbot
 
 | Command Name     | Response                                                                                                                             | Access Level    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ------ | -------- |
-| `!cast`          | `Want to learn more about the cast of dotRP? Check it out here: https://bit.ly/3NXeZaa`                                              | Everyone        |
+| `!cast`          | `Want to learn more about the cast of dotRP? Check it out here: https://cast.dotroleplay.com/`                                       | Everyone        |
 | `!crash`         | `[Streamer] has crashed ${count <crash>} times...[pronouns] needs some driving lessons monkaSTEER`                                   | Mods            |
-| `!devcru`        | `Want to learn more about the devCRU? Check it out here: https://bit.ly/3xtu3ax`                                                     | Everyone        |
-| `!dotrp`         | `${customapi https://apiv3.m2s.bz/api/dotrp?code=OdpiZ6UmcAqxpyJeKjeU4X16sC45x222jS2ZcXR08ZVyAzFus3Yi5w==&type=${1:1                 | ' '}&name=${2:2 | ' '}}` | Everyone |
+| `!devcru`        | `Want to learn more about the devCRU? Check it out here: https://cast.dotroleplay.com/devcru`                                        | Everyone        |
+| `!dotrp`         | `${readapi.https://apiv3.m2s.bz/api/dotrp?code=Uw4wM-J0j7lPvLtOZf2h9gvjppdoZIaSLaVJHUou0onJAzFuU_6ZGA==&name={2:2}&type={1:1}}`      | Everyone |
 | `!down`          | `[Streamer] has been downed ${count <down>} times...someone get this [pronoun] some body armor!`                                     | Mods            |
 | `!resetcrash`    | `${touser} is resetting the crash counter! ${count <crash> 0}`                                                                       | Mods            |
 | `!resetdown`     | `${touser} is resetting the down counter! ${count <down> 0}`                                                                         | Mods            |
@@ -28,7 +28,7 @@ title: StreamLabs/Cloudbot
 | `!supportdotrp`  | `${customapi https://apiv3.m2s.bz/api/dotrp?code=OdpiZ6UmcAqxpyJeKjeU4X16sC45x222jS2ZcXR08ZVyAzFus3Yi5w==&name=support&type=timers}` | Everyone        |
 
 </div>
-
+<h2>Commands need more testing</h2>
 #### Timers
 
 1. TODO CloudBot Bot Timers
