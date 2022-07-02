@@ -36,7 +36,7 @@ title: StreamLabs/Cloudbot
 
 <div markdown="1" class="content-table">
 
-| Timer Name    | Response                                                                                                                          | Time Interval (Reccommedned) |
+| Timer Name    | Response                                                                                                                          | Time Interval (Recommended)  |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
 | Kraken        | `THE KRAKEN CONSUMES ALL`                                                                                                         | 30 minutes                   |
 | LSLore        | `$readapi(https://apiv3.m2s.bz/api/dotrp?code=OdpiZ6UmcAqxpyJeKjeU4X16sC45x222jS2ZcXR08ZVyAzFus3Yi5w==&name=lslore&type=timers}`  | 60 minutes                   |

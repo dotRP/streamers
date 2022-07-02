@@ -38,7 +38,7 @@ title: StreamElements
 
 <div markdown="1" class="content-table">
 
-| Timer Name    | Response                                                                                                                             | Time Interval (Recommended) |
+| Timer Name    | Response                                                                                                                             | Time Interval (Recommended)  |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
 | dotRP Twitter | `${customapi https://apiv3.m2s.bz/api/dotrp?code=Uw4wM-J0j7lPvLtOZf2h9gvjppdoZIaSLaVJHUou0onJAzFuU_6ZGA==&name=twitter&type=timers}` | 15-20 minutes                |
 | dotRP Discord | `${customapi https://apiv3.m2s.bz/api/dotrp?code=Uw4wM-J0j7lPvLtOZf2h9gvjppdoZIaSLaVJHUou0onJAzFuU_6ZGA==&name=discord&type=timers}` | 30 minutes                   |

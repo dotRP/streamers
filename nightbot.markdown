@@ -31,19 +31,20 @@ title: Nightbot
 </div>
 
 
-</div>
 
 #### Timers
 
 1. TODO CloudBot Bot Timers
 2. Click to copy
-
 <div markdown="1" class="content-table">
 
-| Timer Name    | Response                                                                                                                           | Time Interval (Recommended)  |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------  | ---------------------------- |
-| dotRP Twitter | `$(urlfetch https://apiv3.m2s.bz/api/dotrp?code=Uw4wM-J0j7lPvLtOZf2h9gvjppdoZIaSLaVJHUou0onJAzFuU_6ZGA==&name=twitter&type=timers)`| 15-20 minutes                |
-| dotRP Discord | `$(urlfetch https://apiv3.m2s.bz/api/dotrp?code=OdpiZ6UmcAqxpyJeKjeU4X16sC45x222jS2ZcXR08ZVyAzFus3Yi5w==&name=discord&type=timers)`| 30 minutes                   |
-| LSLore        | `$(urlfetch https://apiv3.m2s.bz/api/dotrp?code=OdpiZ6UmcAqxpyJeKjeU4X16sC45x222jS2ZcXR08ZVyAzFus3Yi5w==&name=lslore&type=timers)` | 60 minutes                   |
-| Kraken        | `THE KRAKEN CONSUMES ALL`                                                                                                          | 30 minutes                   |
+| Timer Name    | Response                                                                                                                             | Time Interval (Recommended)  |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+| dotRP Twitter |`$(urlfetch https://apiv3.m2s.bz/api/dotrp?code=Uw4wM-J0j7lPvLtOZf2h9gvjppdoZIaSLaVJHUou0onJAzFuU_6ZGA==&name=twitter&type=timers)` | 15-20 minutes                |
+| dotRP Discord | `$(urlfetch https://apiv3.m2s.bz/api/dotrp?code=OdpiZ6UmcAqxpyJeKjeU4X16sC45x222jS2ZcXR08ZVyAzFus3Yi5w==&name=discord&type=timers)` | 30 minutes                   |
+| LSLore        | `$(urlfetch https://apiv3.m2s.bz/api/dotrp?code=OdpiZ6UmcAqxpyJeKjeU4X16sC45x222jS2ZcXR08ZVyAzFus3Yi5w==&name=lslore&type=timers)`  | 60 minutes                   |
+| Kraken        | `THE KRAKEN CONSUMES ALL`                                                                                                            | 30 minutes                   |
+
+
+
 </div>
