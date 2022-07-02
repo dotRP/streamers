@@ -10,9 +10,9 @@ title: StreamElements
 
 #### Commands
 
-1. TODO StreamElements Custom Commands
-2. Click to copy
-3. Replace `[pronouns]` (todo: variable configurator?)
+1. Add the following to your StreamElements [Custom Commands](https://streamelements.com/dashboard/bot/commands/custom)
+2. Click to copy each line
+3. Replace `[pronouns]` with your appropriate usage
 
 <div markdown="1" class="content-table">
 
@@ -33,8 +33,8 @@ title: StreamElements
 
 #### Timers
 
-1. TODO StreamElements Bot Timers
-2. Click to copy
+1. Add the following to your StreamElements [Timers](https://streamelements.com/dashboard/bot/timers)
+2. Click to copy each command
 
 <div markdown="1" class="content-table">
 
@@ -44,7 +44,5 @@ title: StreamElements
 | dotRP Discord | `${customapi https://apiv3.m2s.bz/api/dotrp?code=Uw4wM-J0j7lPvLtOZf2h9gvjppdoZIaSLaVJHUou0onJAzFuU_6ZGA==&name=discord&type=timers}` | 30 minutes                   |
 | LSLore        | `${customapi https://apiv3.m2s.bz/api/dotrp?code=Uw4wM-J0j7lPvLtOZf2h9gvjppdoZIaSLaVJHUou0onJAzFuU_6ZGA==&name=lslore&type=timers}`  | 60 minutes                   |
 | Kraken        | `THE KRAKEN CONSUMES ALL`                                                                                                            | 30 minutes                   |
-
-
 
 </div>
