@@ -8,11 +8,10 @@ title: Nightbot
 
 #### Commands
 
-1. TODO Nightbot Custom Commands
-2. Click to copy
-3. Replace `[Streamer]`, `[pronouns]` (todo: variable configurator?)
+1. Add the following to your Nightbot [Custom Commands](https://nightbot.tv/commands/custom)
+2. Click to copy each line
+3. Replace `[pronouns]` with your appropriate usage
 
-<div markdown="1" class="content-table">
 <div markdown="1" class="content-table">
 
 | Command Name     | Response                                                                                                                             | Access Level    |
@@ -34,8 +33,9 @@ title: Nightbot
 
 #### Timers
 
-1. TODO CloudBot Bot Timers
-2. Click to copy
+1. Add the following to your Nightbot [Timers](https://nightbot.tv/timers)
+2. Click to copy each line
+
 <div markdown="1" class="content-table">
 
 | Timer Name    | Response                                                                                                                             | Time Interval (Recommended)  |
@@ -44,7 +44,5 @@ title: Nightbot
 | dotRP Discord | `$(urlfetch https://apiv3.m2s.bz/api/dotrp?code=OdpiZ6UmcAqxpyJeKjeU4X16sC45x222jS2ZcXR08ZVyAzFus3Yi5w==&name=discord&type=timers)` | 30 minutes                   |
 | LSLore        | `$(urlfetch https://apiv3.m2s.bz/api/dotrp?code=OdpiZ6UmcAqxpyJeKjeU4X16sC45x222jS2ZcXR08ZVyAzFus3Yi5w==&name=lslore&type=timers)`  | 60 minutes                   |
 | Kraken        | `THE KRAKEN CONSUMES ALL`                                                                                                            | 30 minutes                   |
-
-
 
 </div>
